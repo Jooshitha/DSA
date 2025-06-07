@@ -35,9 +35,6 @@ Rotates all elements of an array to the **left by one position**, placing the fi
 Input: 10 20 30 40 50
 Output: 20 30 40 50 10
 
-yaml
-Copy
-Edit
 
 **Concepts Used:**  
 - Shifting array elements  
